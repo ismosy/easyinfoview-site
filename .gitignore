@@ -1,0 +1,8 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.log
+
+# Node or build stuff (not used but good practice)
+node_modules/
+dist/
